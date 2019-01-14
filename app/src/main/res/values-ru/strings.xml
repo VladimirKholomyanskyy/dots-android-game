@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Точки</string>
+    <string name="userName">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="login">Вход</string>
+    <string name="register">Регистрация</string>
+    <string name="rememberMe">Запомнить</string>
+    <string name="newPlayer">Новый игрок</string>
+    <string name="repeatPassword">Пов. пароль</string>
+    <string name="registerSucceed">Регистрация прошла успешно</string>
+    <string name="authorizationFailed">Ошибка авторизации</string>
+    <string name="serverError">Ошибка сервера. Попробуйте позже</string>
+    <string name="success">Авторизация прошла успешно</string>
+    <string name="registrationError">Ошибка регистрации</string>
+    <string name="search">Поиск</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirmDialogMessage">Подтвердите ход</string>
+    <string name="ok">Ок</string>
+    <string name="makeATurnMessage">Ваш ход</string>
+    <string name="waitingForOpponentTurn">Ожидание хода противника</string>
+    <string name="invalidRegistrationParams">Имя должно состоять из английских букв длиной более 3 букв, пароль должен состоять из английских букв и цифр длиной болле 6 символов</string>
+    <string name="confirmPasswordError">Ошибка подтвержения пароля</string>
+    <string name="winRate">Процент побед</string>
+    <string name="amountOfGames">Кол-во игр</string>
+    <string name="lastTimePlayed">Последняя игра</string>
+    <string name="lastResult">Последний результат</string>
+    <string name="highestScore">Максимальный счет</string>
+    <string name="endOfGame">Игра завершена</string>
+    <string name="winMessage">Поздравляем вы победили</string>
+    <string name="lossMessage">Вы проиграли</string>
+    <string name="drawMessage">Игра закончилась ничьей</string>
+    <string name="oppLeftMessage">Ваш оппонент покинул игру. У вас есть 2 минуты до ее оканчания.</string>
+    <string name="appError">Произошла ошибка во время игры.</string>
+    <string name="exitGameMessage">Вы уверены, что хотите покинуть игру?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>

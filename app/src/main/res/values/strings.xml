@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dots</string>
+    <string name="userName">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="rememberMe">Remember me</string>
+    <string name="newPlayer">New player</string>
+    <string name="repeatPassword">Repeat password</string>
+    <string name="registerSucceed">Registration successful</string>
+    <string name="authorizationFailed">Authorization failed</string>
+    <string name="serverError">Server error. Try again</string>
+    <string name="success">Authorization successful</string>
+    <string name="registrationError">Registration failed: invalid input</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirmDialogMessage">Please confirm your turn</string>
+    <string name="ok">Ok</string>
+    <string name="makeATurnMessage">Please make a turn</string>
+    <string name="waitingForOpponentTurn">Waiting for opponent turn</string>
+    <string name="invalidRegistrationParams">Name must contain english letters only with minimum length of 3; password must contain  only english letters and numbers with minimum length of 6</string>
+    <string name="confirmPasswordError">Confirmation password error</string>
+    <string name="winRate">Win rate</string>
+    <string name="amountOfGames">Amount of games</string>
+    <string name="lastTimePlayed">Last time played</string>
+    <string name="lastResult">Result of last game</string>
+    <string name="highestScore" >Highest score</string>
+    <string name="endOfGame">The game has been finished</string>
+    <string name="winMessage">Congratulations you won</string>
+    <string name="lossMessage">You lost</string>
+    <string name="drawMessage">Draw</string>
+    <string name="oppLeftMessage">Your opponent has left the game. You have 2 minutes to make turns.</string>
+    <string name="appError">Error occurred while playing a game.</string>
+    <string name="exitGameMessage">Do you really want to leave the game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
