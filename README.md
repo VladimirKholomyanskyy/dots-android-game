@@ -4,4 +4,7 @@ Game Dots is a part of my final project in the university. The game is for two p
 
 More information about the game:  https://en.wikipedia.org/wiki/Dots_(game)
 
-Link to server part: https://github.com/VladimirKholomyanskyy/game-server
+Link to the server part: https://github.com/VladimirKholomyanskyy/game-server
+
+
+
